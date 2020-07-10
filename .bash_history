@@ -30,3 +30,5 @@ tunnel
 stunnel
 exit() exit
 ls
+git config --global user.name "cheolsoonim"
+git config --global user.email "w0439657@nscc.ca"

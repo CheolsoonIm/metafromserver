@@ -30,3 +30,11 @@
 [2020-07-10 19:51:13.200] [remoteagent] [info] [127.0.0.1][3edff554][ExtensionHostConnection] New connection established.
 [2020-07-10 19:51:13.206] [remoteagent] [info] [127.0.0.1][3edff554][ExtensionHostConnection] <1483365> Launched Extension Host Process.
 [2020-07-10 19:56:12.937] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-07-10 20:03:55.014] [remoteagent] [info] [127.0.0.1][be54678d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-07-10 20:03:56.052] [remoteagent] [info] [127.0.0.1][3edff554][ExtensionHostConnection] <1483365> Extension Host Process exited with code: 0, signal: null.
+[2020-07-10 20:03:56.052] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-07-10 20:04:16.217] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2020-07-10 20:04:16.217] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-07-10 20:04:16.427] [remoteagent] [info] [127.0.0.1][462dffaf][ManagementConnection] New connection established.
+[2020-07-10 20:04:16.427] [remoteagent] [info] [127.0.0.1][afe1574d][ExtensionHostConnection] New connection established.
+[2020-07-10 20:04:16.432] [remoteagent] [info] [127.0.0.1][afe1574d][ExtensionHostConnection] <1637981> Launched Extension Host Process.
