@@ -39,3 +39,7 @@
 [2020-07-10 20:04:16.427] [remoteagent] [info] [127.0.0.1][afe1574d][ExtensionHostConnection] New connection established.
 [2020-07-10 20:04:16.432] [remoteagent] [info] [127.0.0.1][afe1574d][ExtensionHostConnection] <1637981> Launched Extension Host Process.
 [2020-07-10 20:09:16.218] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-07-10 20:27:26.178] [remoteagent] [info] [127.0.0.1][462dffaf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-07-10 20:27:27.209] [remoteagent] [info] [127.0.0.1][afe1574d][ExtensionHostConnection] <1637981> Extension Host Process exited with code: 0, signal: null.
+[2020-07-10 20:27:27.210] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-07-10 20:32:27.310] [remoteagent] [info] Last EH closed, shutting down

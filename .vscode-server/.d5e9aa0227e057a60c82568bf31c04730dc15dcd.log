@@ -9,51 +9,23 @@
 
 
 IP Address: 129.173.35.11
-Extension host agent listening on 41729
+Extension host agent listening on 42093
 
 
-[19:34:17] Extension host agent started.
-[19:34:19] [127.0.0.1][ce9059d8][ExtensionHostConnection] New connection established.
-[19:34:19] [127.0.0.1][b3dbd291][ManagementConnection] New connection established.
+[18:57:25] Extension host agent started.
+[18:57:26] [127.0.0.1][c7d53de8][ManagementConnection] New connection established.
+[18:57:26] [127.0.0.1][b9216a0e][ExtensionHostConnection] New connection established.
 bash: cannot set terminal process group (-1): Inappropriate ioctl for device
 bash: no job control in this shell
-[19:34:19] [127.0.0.1][ce9059d8][ExtensionHostConnection] <1283840> Launched Extension Host Process.
-[19:37:28] [127.0.0.1][b3dbd291][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[19:37:30] [127.0.0.1][ce9059d8][ExtensionHostConnection] <1283840> Extension Host Process exited with code: 0, signal: null.
+[18:57:27] [127.0.0.1][b9216a0e][ExtensionHostConnection] <977282> Launched Extension Host Process.
+[18:57:49] [127.0.0.1][c7d53de8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[18:57:50] [127.0.0.1][b9216a0e][ExtensionHostConnection] <977282> Extension Host Process exited with code: 0, signal: null.
 Last EH closed, waiting before shutting down
-[19:37:30] Last EH closed, waiting before shutting down
+[18:57:50] Last EH closed, waiting before shutting down
 Got delay-shutdown request while in shutdown timeout, delaying
-[19:38:33] Got delay-shutdown request while in shutdown timeout, delaying
+[18:58:00] Got delay-shutdown request while in shutdown timeout, delaying
 Cancelling previous shutdown timeout
-[19:38:33] Cancelling previous shutdown timeout
-[19:38:34] [127.0.0.1][ea165c1b][ManagementConnection] New connection established.
-[19:38:34] [127.0.0.1][3eb80c52][ExtensionHostConnection] New connection established.
-[19:38:34] [127.0.0.1][3eb80c52][ExtensionHostConnection] <1335084> Launched Extension Host Process.
-New EH opened, aborting shutdown
-[19:43:33] New EH opened, aborting shutdown
-[19:50:54] [127.0.0.1][ea165c1b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[19:50:55] [127.0.0.1][3eb80c52][ExtensionHostConnection] <1335084> Extension Host Process exited with code: 0, signal: null.
-Last EH closed, waiting before shutting down
-[19:50:55] Last EH closed, waiting before shutting down
-Got delay-shutdown request while in shutdown timeout, delaying
-[19:51:12] Got delay-shutdown request while in shutdown timeout, delaying
-Cancelling previous shutdown timeout
-[19:51:12] Cancelling previous shutdown timeout
-[19:51:13] [127.0.0.1][be54678d][ManagementConnection] New connection established.
-[19:51:13] [127.0.0.1][3edff554][ExtensionHostConnection] New connection established.
-[19:51:13] [127.0.0.1][3edff554][ExtensionHostConnection] <1483365> Launched Extension Host Process.
-New EH opened, aborting shutdown
-[19:56:12] New EH opened, aborting shutdown
-[20:03:55] [127.0.0.1][be54678d][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
-[20:03:56] [127.0.0.1][3edff554][ExtensionHostConnection] <1483365> Extension Host Process exited with code: 0, signal: null.
-Last EH closed, waiting before shutting down
-[20:03:56] Last EH closed, waiting before shutting down
-Got delay-shutdown request while in shutdown timeout, delaying
-[20:04:16] Got delay-shutdown request while in shutdown timeout, delaying
-Cancelling previous shutdown timeout
-[20:04:16] Cancelling previous shutdown timeout
-[20:04:16] [127.0.0.1][462dffaf][ManagementConnection] New connection established.
-[20:04:16] [127.0.0.1][afe1574d][ExtensionHostConnection] New connection established.
-[20:04:16] [127.0.0.1][afe1574d][ExtensionHostConnection] <1637981> Launched Extension Host Process.
-New EH opened, aborting shutdown
-[20:09:16] New EH opened, aborting shutdown
+[18:58:00] Cancelling previous shutdown timeout
+[18:58:01] [127.0.0.1][d1c35739][ExtensionHostConnection] New connection established.
+[18:58:01] [127.0.0.1][d1c35739][ExtensionHostConnection] <984202> Launched Extension Host Process.
+[18:58:01] [127.0.0.1][93f8c7d7][ManagementConnection] New connection established.
